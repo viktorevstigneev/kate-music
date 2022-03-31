@@ -1,0 +1,26 @@
+.profile {
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 10%;
+	background: rgba(0, 0, 0, 0.39);
+	border-radius: 10px;
+	padding: 30px;
+	padding-bottom: 90px;
+}
+
+.profile__top{
+	text-align: center;
+	font-size: 28px;
+	color: rgb(255, 255, 255);
+}
+
+.profile__test{
+	padding: 15px;
+	border-top: 1px solid rgb(255, 255, 255);
+	color: white;
+}
+
+.profile__test:last-child{
+	border-bottom: 1px solid rgb(255, 255, 255);
+
+}

@@ -1,0 +1,39 @@
+.music{
+    margin: 0 auto;
+    height: 400px;
+    overflow-y: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.music__name{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: aliceblue;
+}
+
+.music__title{
+    margin-top: 10%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.music_container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.music__block{
+    position: relative;
+    width: 40%;
+  margin-right: 10px;
+}
+
+.delete__music{
+    color: rgb(255, 104, 104);
+	font-size: 45px;
+	position: absolute;
+	right: 60px;
+	top: 0;
+    cursor: pointer;
+}

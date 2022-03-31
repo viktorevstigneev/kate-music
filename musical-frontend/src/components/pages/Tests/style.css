@@ -1,0 +1,22 @@
+.test {
+	margin: 0 auto;
+	margin-top: 10%;
+	width: 50%;
+	/* display: flex; */
+	color: aliceblue;
+	padding-bottom: 40px;
+}
+
+.tag-container{
+    display: none;
+}
+
+.react-quiz-container{
+	border: 1px solid rgb(255, 255, 255);
+	background: rgba(255, 255, 255, 0.479);
+	padding: 60px;
+}
+
+.test__title{
+	text-align: center;
+}
